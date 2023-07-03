@@ -1,0 +1,84 @@
+body {
+    /* background-color: efefef; */
+    font-family: sans-serif;
+    font-size: 1em;
+    /* padding: 1rem 0; */
+    margin: 0;
+  }
+  
+  #container {
+    background-color: #efefef;
+    /* height: 95%; */
+  }
+  
+  #title {
+    text-align: center;
+    padding: 50px 0 5px 0;
+  }
+  
+  #title-info {
+    text-align: center;
+  }
+  
+  #img-div {
+    background-color:white;
+    /* width: 100%; */
+    margin-left: 10px;
+    margin-right: 10px;
+    /* padding: 10px auto; */
+  }
+  
+  #image{
+    width: 1000px;
+    max-width: 100%;
+    height: auto;
+    /* padding: 10px 0 10px 0; */
+    display: block;
+    margin: 0 auto;
+    /* margin: 0 auto 0 auto; */
+    object-fit: cover;
+  }
+  
+  #img-caption {
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  h2 {
+    font-size: 1.1rem;
+    display:flex;
+    justify-content: center;
+    padding: 1.5rem 0;
+  }
+  /* 
+  #tribute-info *{
+    margin: 1rem auto;
+    width: 555px;
+  } */
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  li {
+    margin: 1rem auto;
+    width: 555px;
+  }
+  
+  #pm-testimony{
+    margin: 3rem auto 1rem auto;
+    width: 555px;
+    font-style: italic;
+  }
+  
+  #pm {
+    margin: 1rem auto 3rem auto;
+    width: 555px;
+    font-style: italic;
+  } 
+  
+  #tribute-p {
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 2rem;
+  }
